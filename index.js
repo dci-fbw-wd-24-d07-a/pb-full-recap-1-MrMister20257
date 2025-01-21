@@ -20,7 +20,7 @@ for (let i = 0; i < 16; i++) {
     };
 };
 
-//Paprika schippeln!
+//Paprika schnippeln!
 for (let i = 0; i < 50; i++) {
     if (i === 0) {
         console.log("Jetzt werden die Paprikas geschnitten.")
